@@ -1,0 +1,12 @@
+<html>
+    <head>
+        <title>Aula 01 PHP</title>
+    </head>
+    <body>
+      <?php
+        echo "Olá mundo!";
+        echo "Emilly, Cecília e M.E.Soares";
+
+      ?>
+    </body>
+</html>
